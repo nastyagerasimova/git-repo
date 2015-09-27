@@ -1,4 +1,4 @@
 <meta charset="utf-8">
 <script>
-alert('hi')
+alert('Fuck off')
 </script>
