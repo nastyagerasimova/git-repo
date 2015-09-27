@@ -1,0 +1,12 @@
+<meta charset="utf-8">
+<script>
+var a = prompt('Сколько ушей у трех мышей?');
+var c = 0
+if (a == '6') {
+alert('молодец');
+c = c + 1;
+} else {
+c = c + 0;
+break;
+}
+</script>
