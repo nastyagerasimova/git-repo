@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <script>
 alert('Hello,World!')
-var a = prompt('What's your name? ')
+var name = prompt('What's your name? ')
+alert(name + 'You looks great!")
 </script>
